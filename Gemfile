@@ -49,7 +49,7 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'bootstrap-sass'
-gem 'gibbon'
+gem 'gibbon', '>= 2.2.5'
 gem 'high_voltage'
 gem 'simple_form'
 group :development do
